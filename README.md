@@ -3,5 +3,5 @@ The Trees Tryhards are on a journey to find the best neighborhood in Pittsburgh!
 The metric we used to determine the best neighborhood is __
 ## Members
 
-- Jake Kressley
+- Jake Kressley vis108@pitt.edu
 - Vishal Suthakar
