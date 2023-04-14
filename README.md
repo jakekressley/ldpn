@@ -9,9 +9,9 @@ Our team is looking to find the neighborhood in Pittsburgh that is the "worst" t
 
 ## Datasets Used
 
-- [Number of Crashes](https://data.wprdc.org/dataset/allegheny-county-crash-data)
+- [Number of Crashes (2021)](https://data.wprdc.org/dataset/allegheny-county-crash-data)
 
-Contains data of every crash in Allegheny county from 2004-2021. By pairing with Neighborhoods dataset(see below) we will match each crash to its respective neighborhood. More crashes means a neighborhood is worse to drive in.
+Contains data of every crash in Allegheny county from 2021 (Decided to only do 2021 instead of 2004-2021 because it took an unbearable amount of time to use). By pairing with Neighborhoods dataset(see below) we will match each crash to its respective neighborhood. More crashes means a neighborhood is worse to drive in.
 
 - [Number of Speed Humps](https://data.wprdc.org/dataset/city-of-pittsburgh-speed-humps/resource/37b2ac41-ae8e-4de1-8405-157e05dc3640)
 
