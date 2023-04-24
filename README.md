@@ -19,6 +19,8 @@ Contains counts of speed humps in each neighborhood in Pittsburgh, the more spee
 
 - [Traffic Count](https://data.wprdc.org/datastore/dump/6dfd4f8f-cbf5-4917-a5eb-fd07f4403167)
 
+Contains daily count of cars that drive through each neighborhood. The more cars, the more traffic.
+
 - [Pittsburgh Neighborhoods](https://data.wprdc.org/dataset/neighborhoods2)
 
 Details the boundaries of each neighborhood so we are able to place the crashes within their respective neighborhoods. 
