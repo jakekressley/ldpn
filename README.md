@@ -1,4 +1,4 @@
-# CMPINF0010-final-project
+# Least Driveable Pittsburgh Neighborhood
 **Team Name**: Small Ideas
 ## Members
 
